@@ -2,5 +2,5 @@ MEISKE RESOLUSI
 - Konsisten untuk mempelajari dasar pemrograman di tahun ini
 - Dasar pemrograman yang ingin di pelajari adalah Javascript dan PHP
 - Kedepannya ingin menjadi seorang yang ahli di bidang Frond End developer
-- Membuat tampilan website
 - Memperdalam ilmu programing dengan mengikuti sekolah Bootcamp
+- developer handal
